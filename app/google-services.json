@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414127626498",
+    "firebase_url": "https://calcalc-f33fa.firebaseio.com",
+    "project_id": "calcalc-f33fa",
+    "storage_bucket": "calcalc-f33fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414127626498:android:733de60ad90bc7ba484a1b",
+        "android_client_info": {
+          "package_name": "com.yotsufe.calcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414127626498-g3bqobkuedq7md1gnba6qche3514uipo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH9TkvvS0AxRzmaZlpf2DQmAAYzg2FVjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414127626498-g3bqobkuedq7md1gnba6qche3514uipo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
