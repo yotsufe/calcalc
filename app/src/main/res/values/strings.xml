@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">calcalc</string>
+    <string name="app_name">CalCalc</string>
+
+    <string name="base_data">基礎データ</string>
+    <string name="goal_setting">目標設定</string>
+    <string name="pfc_balance">PFCバランス</string>
+
 </resources>
