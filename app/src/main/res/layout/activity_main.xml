@@ -44,6 +44,21 @@
 
         </androidx.viewpager.widget.ViewPager>
 
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-6997947905950387/9488257801">
+
+        </com.google.android.gms.ads.AdView>
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </layout>
